@@ -14,7 +14,7 @@
     <room name='LivingRoom'>
       <event guid='15f4e5c5-40e1-4c73-8da0-4cc2a773ab13' id='9985'>
         <date>2010-03-15T10:00:00+01:00</date>
-        <start>10:00</start>
+        <start>18:00</start>
         <duration>24:00</duration>
         <room>LivingRoom</room>
         <slug>reversing-mobile-malware</slug>
