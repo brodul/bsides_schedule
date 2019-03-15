@@ -25,7 +25,7 @@
         </recording>
         <title>Reversing Mobile Malware (Abdullah Joseph)</title>
         <subtitle>Technical</subtitle>
-        <track>CCC</track>
+        <track>Main</track>
         <type>lecture</type>
         <language>en</language>
         <abstract>The speaker will go through the process of reversing two samples of live malware: the first is a Windows ransomware, the second is an Android malware. Moreover, the speaker will demonstrate the tooling and resources necessary to identify, handle and understand a malware sample. The idea here is to establish the methodology of how to approach a malware sample rather than focus on the technicalities of the platform.
