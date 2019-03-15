@@ -11,29 +11,29 @@
     <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   </conference>
   <day date='2019-03-16' end='2019-03-16T03:00:00+01:00' index='1' start='2019-03-17T11:00:00+01:00'>
-    <room name='Adams'>
+    <room name='LivingRoom'>
       <event guid='15f4e5c5-40e1-4c73-8da0-4cc2a773ab13' id='9985'>
         <date>2018-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>00:30</duration>
-        <room>Adams</room>
-        <slug>35c3-9985-opening_event</slug>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>LivingRoom</room>
+        <slug>reversing-mobile-malware</slug>
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9985.html</url>
         <recording>
           <license></license>
           <optout>false</optout>
         </recording>
-        <title>Opening Event</title>
-        <subtitle>35C3: Refreshing Memories</subtitle>
+        <title>Reversing Mobile Malware (Abdullah Joseph)</title>
+        <subtitle>Technical</subtitle>
         <track>CCC</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Hier geht es los.</abstract>
+        <abstract>The speaker will go through the process of reversing two samples of live malware: the first is a Windows ransomware, the second is an Android malware. Moreover, the speaker will demonstrate the tooling and resources necessary to identify, handle and understand a malware sample. The idea here is to establish the methodology of how to approach a malware sample rather than focus on the technicalities of the platform.
+        </abstract>
         <description></description>
         <logo></logo>
         <persons>
-          <person id='8759'>rufus</person>
-          <person id='5638'>rixx</person>
+          <person id='1'>Abdullah Joseph</person>
         </persons>
         <links>
         </links>
