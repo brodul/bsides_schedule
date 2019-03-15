@@ -13,7 +13,7 @@
   <day date='2019-03-16' end='2019-03-16T03:00:00+01:00' index='1' start='2019-03-17T11:00:00+01:00'>
     <room name='LivingRoom'>
       <event guid='15f4e5c5-40e1-4c73-8da0-4cc2a773ab13' id='9985'>
-        <date>2018-12-27T11:00:00+01:00</date>
+        <date>2010-03-16T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:00</duration>
         <room>LivingRoom</room>
