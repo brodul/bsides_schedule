@@ -41,5 +41,7 @@
         </attachments>
       </event>
     </room>
+    <room name='BackRoom'>
+    </room>
   </day>
 </schedule>
